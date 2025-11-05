@@ -1,0 +1,19 @@
+# Visual Studio / .NET Core / C# / WinForms
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider / VS Code
+.idea/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# NuGet packages
+*.nupkg
+
+# Other common temporary files
+# ... (có thể thêm các file khác nếu cần)
